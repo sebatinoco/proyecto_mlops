@@ -64,7 +64,7 @@ Una vez con el modelo entrenado, se desarrolla código para la integración y de
 Eso es todo! Cualquier duda o comentario en relación al proyecto, no duden en escribirme a mi correo: stinoco@fen.uchile.cl
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/f8/39/84/f839845d5a8f6634e206e22fe8fc780e.gif" alt="Model Pipeline" width="350"/>
+  <img src="https://media4.giphy.com/media/YQitE4YNQNahy/giphy.gif?cid=ecf05e47p16a0088lkqey8hz5zdz3exiq8fg09zfs38v1v89&rid=giphy.gif&ct=g" alt="Model Pipeline" width="400"/>
 </div>
 
 
