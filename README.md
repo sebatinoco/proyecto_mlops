@@ -7,7 +7,7 @@ Hola! Este es el repositorio para el proyecto del curso MLOps de la Universidad 
 Utilizando información histórica de ventas de una importante productora de bebidas del país, se propone desarrollar un modelo predictivo que estime la **probabilidad de compra de la próxima semana** de **cada producto** del portafolio para **cada cliente** activo.
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/IWBYGs5WlhkAAAAC/how-i-met-your-mother-himym.gif" alt="Model Pipeline" width="300"/>
+  <img src="https://media1.tenor.com/m/IWBYGs5WlhkAAAAC/how-i-met-your-mother-himym.gif" alt="Challenge Accepted" width="300"/>
 </div>
 
 
@@ -59,12 +59,12 @@ Una vez con el modelo entrenado, se desarrolla código para la integración y de
 - `DockerHub`: Plataforma que habilita el almacenamiento de la imagen de la aplicación, comúnmente llamado *Container Registry*.
 - `Microsoft Azure Container Apps`: Servicio cloud que nos permite *hostear* la aplicación.
 
-## Contacto
+## Contacto ✉️
 
-Eso es todo! Cualquier duda o comentario en relación al proyecto, no duden en escribirme a mi correo: stinoco@fen.uchile.cl
+Eso es todo! Cualquier duda o comentario en relación al proyecto, no duden en escribirme a mi correo: stinoco@fen.uchile.cl nos vemos!! 🤗
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/YQitE4YNQNahy/giphy.gif?cid=ecf05e47p16a0088lkqey8hz5zdz3exiq8fg09zfs38v1v89&rid=giphy.gif&ct=g" alt="Model Pipeline" width="400"/>
+  <img src="https://media4.giphy.com/media/YQitE4YNQNahy/giphy.gif?cid=ecf05e47p16a0088lkqey8hz5zdz3exiq8fg09zfs38v1v89&rid=giphy.gif&ct=g" alt="Good Bye!" width="400"/>
 </div>
 
 

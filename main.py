@@ -20,15 +20,15 @@ def home():
 
 # Prediction endpoint
 @app.post("/predict")
-def model_prediction(input: InputData):
+def model_prediction(user_input: InputData):
     try:
         # Convert the input data to a DataFrame
-        input_df = pd.DataFrame([input.model_dump()])
+        input_df = pd.DataFrame([user_input.model_dump()])
         # Make predictions using the loaded model
         predictions = model.predict(input_df)
         prediction = predictions.item()
         return JSONResponse(content=prediction, status_code=200)
-    except Exception as e:
+    except AttributeError as e:
         # Handle exceptions and return an error message
         return JSONResponse(content={"error": str(e)}, status_code=422)
 
