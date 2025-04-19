@@ -211,3 +211,4 @@ images/
 *.ipynb
 .github
 tests/
+*.pptx

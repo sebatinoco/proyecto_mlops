@@ -4,7 +4,7 @@ import uvicorn
 import pickle
 import pandas as pd
 
-from utils import InputData
+from utils import InputData, input_example
 
 # Initialize FastAPI app
 app = FastAPI()
@@ -20,7 +20,7 @@ def home():
 
 # Prediction endpoint
 @app.post("/predict")
-def model_prediction(user_input: InputData):
+def model_prediction(user_input: InputData = input_example):
     try:
         # Convert the input data to a DataFrame
         input_df = pd.DataFrame([user_input.model_dump()])
